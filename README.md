@@ -1,75 +1,52 @@
-# Nuxt Minimal Starter
+# 🌐 My Link Tree
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Este projeto é uma **página de links pessoais** desenvolvida com **Nuxt.js**, permitindo compartilhar perfis e contatos em um único local. 
 
-## Setup
+---
+## 🚀 Tecnologias Utilizadas
+- **Nuxt.js** (Framework Vue.js)
+- **HTML, CSS e JavaScript**
+- **TailwindCSS** (para estilização)
+- **Vite** (para build e performance)
+- **Netlify e Render** (para deploy)
+---
+## 📥 Como rodar o projeto localmente
 
-Make sure to install dependencies:
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/fpsantos86/my-link-tree.git
+   cd my-link-tree
+2. Instale as dependências:
+   ```sh
+   npm install
+3. Execute o servidor de desenvolvimento:
+   ```sh
+   npm run dev
+4. Acesse no navegador:
+   ```sh
+   http://localhost:3000
+## 📦 Como gerar um build para produção
 
-```bash
-# npm
-npm install
+1. Execute:
+   ```sh
+   npm run generate
+2. Isso criará uma pasta dist/ com os arquivos estáticos para serem hospedados.   
+---
+## 🌍 Deploy
 
-# pnpm
-pnpm install
+O projeto está publicado em:
+ - ##### Render: https://fiap-static-server-yu3e.onrender.com/
+ - Netlify: (adicione aqui o link caso tenha feito deploy no Netlify)
+---
+## 📌 Funcionalidades
+- 🚀 Página única com links personalizados
+- 🎨 Interface responsiva e amigável
+- 🛠️ Modal interativo com informações pessoais
+- ⚡ Fácil personalização e manutenção
+---
+## 📡 Contato
 
-# yarn
-yarn install
+![💻](https://img.shields.io/badge/-Desenvolvido%20por-blue) **Felipe Pereira**  
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+🔗 [**LinkedIn**](https://www.linkedin.com/in/felipe-pereira-06962a31/)  
+✉️ **E-mail:** *(fpsantos86@hotmail.com)*
