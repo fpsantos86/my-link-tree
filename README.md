@@ -41,7 +41,7 @@ Este projeto é uma **página de links pessoais** desenvolvida com **Nuxt.js**, 
 
 O projeto está publicado em:
  - ##### Render: https://fiap-static-server-yu3e.onrender.com/
- - ##### Netlify: (https://relaxed-sundae-ca4e44.netlify.app/)
+ - ##### Netlify: https://relaxed-sundae-ca4e44.netlify.app/
 ---
 ## 📌 Funcionalidades
 - 🚀 Página única com links personalizados
